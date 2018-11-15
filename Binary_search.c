@@ -1,3 +1,5 @@
+//Harikrishnan S Kartha
+//S3D-26
 #include<stdio.h>
 
 void main()
