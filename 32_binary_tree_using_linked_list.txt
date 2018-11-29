@@ -1,0 +1,60 @@
+
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 1
+Enter data to be inserted : 1
+Successfully inserted
+
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 1
+Enter data of the parent node : 1
+Enter data to be inserted : 2
+Enter which child to be inserted at (L/R) : r
+Succesfully inserted
+
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 1
+Enter data of the parent node : 2
+Enter data to be inserted : 3
+Enter which child to be inserted at (L/R) : l
+Succesfully inserted
+
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 4
+ 1 3 2
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 3
+Enter data of the node to be deleted : 2
+
+        Binary Tree
+1. Insert
+2. Search
+3. Delete
+4. Print
+5. Exit
+Enter your choice : 4
+ 1 3

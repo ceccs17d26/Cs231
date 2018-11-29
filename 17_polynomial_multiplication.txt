@@ -1,0 +1,36 @@
+        Polynomial 1
+Enter coefficient : 1
+Enter exponent : 3
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 5
+Enter exponent : 6
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+        Polynomial 2
+Enter coefficient : 1
+Enter exponent : 3
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 1
+Enter exponent : 3
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+
+Multiplying polynomials
+P(x) = x^3 + 5x^6
+Q(x) = x^3 + x^3
+Sum
+R(x) = 10x^9 + 2x^6

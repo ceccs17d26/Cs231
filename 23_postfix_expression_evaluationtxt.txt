@@ -1,0 +1,2 @@
+Enter the postfix expression : 12+42/
+2

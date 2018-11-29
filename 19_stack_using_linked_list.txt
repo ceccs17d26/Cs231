@@ -1,0 +1,45 @@
+4. Exit
+Enter your choice : 1
+
+Enter new data : 65
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 45
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 3
+
+
+Linked List
+TOP->45
+65
+
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 2
+
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 3
+
+
+Linked List
+TOP->65
