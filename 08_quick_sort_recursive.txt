@@ -1,0 +1,9 @@
+Enter size of the array : 5                                                                                                            
+Enter array elements                                                                                                                   
+9       3       41      7       4                                                                                                      
+Sorted Array                                                                                                                           
+3                                                                                                                                      
+4                                                                                                                                      
+7                                                                                                                                      
+9                                                                                                                                      
+41                                                                                                                                     

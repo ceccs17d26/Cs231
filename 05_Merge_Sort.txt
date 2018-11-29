@@ -1,0 +1,9 @@
+Enter array size : 5
+Enter array elements
+21      3       12      65      41
+Sorted array
+3
+12
+21
+41
+65

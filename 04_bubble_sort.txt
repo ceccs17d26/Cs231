@@ -1,0 +1,11 @@
+Enter number of elements in the array : 7
+Enter the array
+45      78      12      36      52      16      42
+Sorted array
+12
+16
+36
+42
+45
+52
+78

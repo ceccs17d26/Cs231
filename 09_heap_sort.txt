@@ -1,0 +1,10 @@
+Enter size of the array : 5
+Enter array elements
+
+56      12      1       35      45
+Sorted Array
+1
+12
+35
+45
+56

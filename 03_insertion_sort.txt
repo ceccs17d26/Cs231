@@ -1,0 +1,9 @@
+Enter size of the array : 5
+Enter array
+99      45      12      78      1
+Sorted array
+1
+12
+45
+78
+99

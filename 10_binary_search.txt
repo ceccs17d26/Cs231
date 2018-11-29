@@ -1,0 +1,9 @@
+Enter number of elements : 5
+Enter elements
+22      1       36      12      2
+Sorted array
+1
+2
+12
+22
+36

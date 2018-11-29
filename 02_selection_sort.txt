@@ -1,0 +1,10 @@
+Enter number of elements in the array : 6
+Enter the array
+24      1       35      16      2       3
+Sorted array
+1
+2
+3
+16
+24
+35

@@ -1,0 +1,5 @@
+Enter number of elements : 6
+Enter elements
+99      25      13      78      1       21
+Enter element to search : 1
+Element found at position 5
